@@ -1,0 +1,7 @@
+
+01_prepare_phosphocite_data.R uses the three raw data files from SIGNOR, PTMsig and PhosphoELM to generate masterDatabaseall3.tsv
+
+ESM-2_substrateNames2.ipynb generates the following files: 
+	deduplicated_human_fullSeq_centered_filteredpos.tsv
+	deduplicated_mouse_fullSeq_centered.tsv
+	deduplicated_rat_fullSeq_centered.tsv
